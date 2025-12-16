@@ -11,11 +11,11 @@ Instead of relying on implicit alignment alone, the project introduces a **safet
 
 ## Project Status
 
-- ✅ Synthetic dataset generation  
-- ✅ LoRA fine-tuning pipeline (Qwen2.5-1.5B)  
-- ✅ Adapter merge for standalone inference  
-- ⏳ Quantitative safety evaluation (in progress)  
-- ⏳ Qualitative analysis (in progress)  
+- Synthetic dataset generation
+- LoRA fine-tuning pipeline (Qwen2.5-1.5B)
+- Adapter merge for standalone inference
+- Quantitative safety evaluation (in progress)
+- Qualitative analysis (in progress)
 
 ---
 
