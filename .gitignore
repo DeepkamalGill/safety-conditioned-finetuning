@@ -1,0 +1,5 @@
+chackpoints/
+*.safetensors
+*.bin
+__pycache__/
+.env
